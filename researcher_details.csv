@@ -1,0 +1,556 @@
+﻿User_ID,Team,Timestamp,Researcher_name,Positiion_in_list,Query,Number_of_keywords
+G9T5,yellow,11/11/19 19:25,martin herbordt,1,computer architecture,0
+SK9V,green,11/11/19 19:26,aaron sloman,3,artificial intelligence,0
+G9T5,yellow,11/11/19 19:26,eric li,2,computer architecture faculty,0
+C2MH,red,11/11/19 19:26,bruce buchanan,4,Artificial intelligence,1
+NOSO,yellow,11/11/19 19:26,martin herbordt,1,computer architecture advisor,0
+DU58,green,11/11/19 19:26,gianni a. di caro,1,artificial intelligence,0
+JNMM,red,11/11/19 19:26,tushar chandra,1,"Evidence based medicine,Health care,Mental disorder,Machine learning",4
+C2MH,red,11/11/19 19:26,peter norvig,2,Artificial intelligence,1
+JNMM,red,11/11/19 19:26,evgeniy gabrilovich,1,"Evidence based medicine,Health care,Mental disorder",3
+ES3R,yellow,11/11/19 19:26,martin herbordt,1,computer architecture,0
+ZCNM,yellow,11/11/19 19:26,jean-philippe vert,10,biology,0
+M3VR,blue,11/11/19 19:26,john hennessy,1,Computer architecture,1
+DJEG,yellow,11/11/19 19:26,martin herbordt,1,human computer interaction,0
+ES3R,yellow,11/11/19 19:26,eric li,2,computer architecture,0
+ZCNM,yellow,11/11/19 19:26,hiroaki kitano,4,biology,0
+OAEG,blue,11/11/19 19:26,john hennessy,1,Computer architecture,1
+01UI,green,11/11/19 19:26,prabhas chongstitvatana,4,artificial intelligence,0
+WOTF,green,11/11/19 19:27,gianni a. di caro,1,artificial intelligence,0
+ZUMP,blue,11/11/19 19:27,john hennessy,1,Computer architecture,1
+IKBJ,yellow,11/11/19 19:27,martin herbordt,1,computer architecture,0
+OJWB,red,11/11/19 19:27,eyke h llermeier,3,Machine learning,1
+SK9V,green,11/11/19 19:27,alcherio martinoli,2,artificial intelligence,0
+DU58,green,11/11/19 19:27,timothy baldwin,9,artificial intelligence,0
+JNMM,red,11/11/19 19:27,reid g. smith,1,"Evidence based medicine,Health care,Mental disorder,Artificial intelligence",4
+ZUMP,blue,11/11/19 19:27,karthikeyan sankaralingam,2,Computer architecture,1
+QDRT,green,11/11/19 19:27,felipe mg fran a,1,artificial intellegence,0
+5ITM,green,11/11/19 19:27,gianni a. di caro,1,artificial intelligence,0
+JNMM,red,11/11/19 19:27,peter norvig,2,"Evidence based medicine,Health care,Mental disorder,Artificial intelligence",4
+NP3J,green,11/11/19 19:27,gianni a. di caro,1,artificial intelligence,0
+C2MH,red,11/11/19 19:27,reid g. smith,1,Artificial intelligence,1
+M3VR,blue,11/11/19 19:27,john hennessy,1,Computer architecture,1
+ROGI,blue,11/11/19 19:27,george e. dahl,1,"Computer architecture,Deep learning,Neural network",3
+5ITM,green,11/11/19 19:27,alcherio martinoli,2,artificial intelligence,0
+D49Q,red,11/11/19 19:27,reid g. smith,1,"Human–computer interaction,Artificial intelligence",2
+01UI,green,11/11/19 19:27,nuno lau,5,artificial intelligence,0
+2H6O,red,11/11/19 19:27,ian vince mcloughlin,1,"Spoken language,Language identification",2
+C2MH,red,11/11/19 19:27,aaron sloman,3,Artificial intelligence,1
+ES3R,yellow,11/11/19 19:27,milos prvulovic,3,computer architecture,0
+C2MH,red,11/11/19 19:27,bruce buchanan,4,Artificial intelligence,1
+WOTF,green,11/11/19 19:27,gianni a. di caro,1,artificial intelligence,0
+5ITM,green,11/11/19 19:27,aaron sloman,3,artificial intelligence,0
+CVVU,yellow,11/11/19 19:27,martin herbordt,1,computer architecture,0
+QDRT,green,11/11/19 19:27,feyzullah temurtas,3,artificial intellegence,0
+C2MH,red,11/11/19 19:27,zhi-hua zhou,2,"Artificial intelligence,Machine learning",2
+NP3J,green,11/11/19 19:27,alcherio martinoli,2,artificial intelligence,0
+CVVU,yellow,11/11/19 19:27,martin herbordt,1,computer architecture,0
+G9T5,yellow,11/11/19 19:27,james m. conrad,3,computer engineering,0
+LKLR,green,11/11/19 19:27,evgeniy gabrilovich,2,information visualization,0
+QDRT,green,11/11/19 19:27,imran s haque,4,artificial intellegence,0
+8IVJ,yellow,11/11/19 19:27,igor l. markov,1,website design,0
+ES3R,yellow,11/11/19 19:27,kamakoti veezhinathan,6,computer architecture,0
+5MGY,yellow,11/11/19 19:27,martin herbordt,1,computer architecture,0
+NP3J,green,11/11/19 19:27,gianni a. di caro,1,artificial intelligence,0
+M3VR,blue,11/11/19 19:27,james c. hoe,12,Computer architecture,1
+D49Q,red,11/11/19 19:27,philip r. cohen,4,"Human–computer interaction,Artificial intelligence",2
+C2MH,red,11/11/19 19:27,zhi-hua zhou,1,Machine learning,1
+SK9V,green,11/11/19 19:28,gianni a. di caro,1,artificial intelligence,0
+ROGI,blue,11/11/19 19:28,karthikeyan sankaralingam,2,Computer architecture,1
+C2MH,red,11/11/19 19:28,tushar chandra,2,Machine learning,1
+2H6O,red,11/11/19 19:28,david warde-farley,2,"Spoken language,Language identification,Neural network,Deep learning",4
+9P3N,green,11/11/19 19:28,gianni a. di caro,1,artificial intelligence,0
+D49Q,red,11/11/19 19:28,peter norvig,2,"Human–computer interaction,Artificial intelligence",2
+QDRT,green,11/11/19 19:28,felipe mg fran a,1,artificial intellegence,0
+01UI,green,11/11/19 19:28,reid g. smith,14,artificial intelligence,0
+5MGY,yellow,11/11/19 19:28,eric li,2,computer architecture,0
+D49Q,red,11/11/19 19:28,aaron sloman,3,"Human–computer interaction,Artificial intelligence",2
+ZUMP,blue,11/11/19 19:28,karthikeyan sankaralingam,2,Computer architecture,1
+ES3R,yellow,11/11/19 19:28,marisa lopez-vallejo,4,computer architecture,0
+JNMM,red,11/11/19 19:28,nick bostrom,7,"Evidence based medicine,Mental disorder,Artificial intelligence",3
+NP3J,green,11/11/19 19:28,feyzullah temurtas,20,artificial intelligence,0
+D49Q,red,11/11/19 19:28,bruce buchanan,5,"Human–computer interaction,Artificial intelligence",2
+N7P0,red,11/11/19 19:28,peter norvig,1,"Virtual reality,Artificial intelligence",2
+OJWB,red,11/11/19 19:28,pedro domingos,5,"Machine learning,Fuzzy logic,Artificial intelligence,Data analysis",4
+JNMM,red,11/11/19 19:28,russ greiner,6,"Evidence based medicine,Mental disorder,Artificial intelligence",3
+ZCNM,yellow,11/11/19 19:28,gregory cooper,7,Informatics,0
+NOSO,yellow,11/11/19 19:28,kamakoti veezhinathan,6,computer architecture grant,0
+45UW,blue,11/11/19 19:28,john hennessy,1,"Computer architecture,Operating system,Embedded system,Neural network",4
+5ITM,green,11/11/19 19:28,shlomo zilberstein,13,artificial intelligence,0
+NOSO,yellow,11/11/19 19:28,eric li,2,computer architecture grant,0
+QDRT,green,11/11/19 19:28,john duchi,8,artificial intellegence,0
+JNMM,red,11/11/19 19:28,reid g. smith,1,"Evidence based medicine,Mental disorder,Artificial intelligence",3
+D49Q,red,11/11/19 19:28,zhi-hua zhou,14,"Human–computer interaction,Artificial intelligence",2
+NOSO,yellow,11/11/19 19:28,milos prvulovic,3,computer architecture grant,0
+8IVJ,yellow,11/11/19 19:28,nam sung kim,1,communication,0
+JNMM,red,11/11/19 19:28,peter norvig,2,"Evidence based medicine,Mental disorder,Artificial intelligence",3
+JNMM,red,11/11/19 19:28,aaron sloman,3,"Evidence based medicine,Mental disorder,Artificial intelligence",3
+M3VR,blue,11/11/19 19:28,karthikeyan sankaralingam,2,Computer architecture,1
+TDFS,blue,11/11/19 19:28,salvatore pontarelli,1,Network monitoring,1
+2H6O,red,11/11/19 19:28,george e. dahl,1,"Spoken language,Language identification,Neural network,Deep learning",4
+ZUMP,blue,11/11/19 19:28,karthikeyan sankaralingam,2,Computer architecture,1
+5MGY,yellow,11/11/19 19:28,marisa lopez-vallejo,4,computer architecture at pitt,0
+OJWB,red,11/11/19 19:28,klaus-robert m ller,13,"Machine learning,Fuzzy logic,Artificial intelligence,Data analysis",4
+9HVH,red,11/11/19 19:28,peter norvig,1,"Artificial intelligence,Machine learning",2
+N7P0,red,11/11/19 19:28,george e. dahl,1,"Virtual reality,Artificial intelligence,Machine learning,Deep learning",4
+5MGY,yellow,11/11/19 19:28,martin herbordt,1,computer architecture at pitt,0
+CVVU,yellow,11/11/19 19:28,martin herbordt,1,computer architecture,0
+NP3J,green,11/11/19 19:28,alcherio martinoli,2,artificial intelligence,0
+NP3J,green,11/11/19 19:29,aaron sloman,3,artificial intelligence,0
+01UI,green,11/11/19 19:29,nicholas asher,1,nlp,0
+ES3R,yellow,11/11/19 19:29,esam el-araby,9,computer architecture,0
+C2MH,red,11/11/19 19:29,eyke h llermeier,3,",Machine learning",2
+NP3J,green,11/11/19 19:29,prabhas chongstitvatana,4,artificial intelligence,0
+IKBJ,yellow,11/11/19 19:29,eric li,2,computer architecture,0
+N7P0,red,11/11/19 19:29,george e. dahl,1,"Virtual reality,Artificial intelligence,Machine learning,Deep learning",4
+ROGI,blue,11/11/19 19:29,david a. wood,3,Computer architecture,1
+NP3J,green,11/11/19 19:29,aaron sloman,3,artificial intelligence,0
+M3VR,blue,11/11/19 19:29,luiz andr barroso,4,Computer architecture,1
+ZCNM,yellow,11/11/19 19:29,xiaohui liu,5,Informatics,0
+ROGI,blue,11/11/19 19:29,luiz andr barroso,4,Computer architecture,1
+D49Q,red,11/11/19 19:29,john laird,19,"Human–computer interaction,Artificial intelligence",2
+8IVJ,yellow,11/11/19 19:29,christina delimitrou,13,big data,0
+WOTF,green,11/11/19 19:29,bernardo cuenca grau,1,data mining and artificial intelligence,0
+9P3N,green,11/11/19 19:29,alcherio martinoli,2,artificial intelligence,0
+DU58,green,11/11/19 19:29,aaron sloman,3,artificial intelligence,0
+QDRT,green,11/11/19 19:29,timothy baldwin,9,artificial intellegence,0
+ZCNM,yellow,11/11/19 19:29,eduard hovy,2,linguistics,0
+DU58,green,11/11/19 19:29,alcherio martinoli,2,artificial intelligence,0
+9HVH,red,11/11/19 19:29,zhi-hua zhou,3,"Artificial intelligence,Machine learning,Deep learning",3
+JNMM,red,11/11/19 19:29,tushar chandra,18,"Evidence based medicine,Mental disorder,Artificial intelligence",3
+01UI,green,11/11/19 19:29,wei xu,2,nlp,0
+9HVH,red,11/11/19 19:29,george e. dahl,2,"Artificial intelligence,Machine learning,Deep learning",3
+FDGO,red,11/11/19 19:29,reid g. smith,1,Artificial intelligence,1
+NP3J,green,11/11/19 19:29,hugo larochelle,1,machine learning pittsburgh,0
+D49Q,red,11/11/19 19:29,dharshan kumaran,15,"Human–computer interaction,Artificial intelligence",2
+ZCNM,yellow,11/11/19 19:29,eduard hovy,2,linguistics,0
+01UI,green,11/11/19 19:29,wei xu,2,nlp,0
+5ITM,green,11/11/19 19:29,gianni a. di caro,1,artificial intelligence,0
+ES3R,yellow,11/11/19 19:29,valentin puente,11,computer architecture,0
+NOSO,yellow,11/11/19 19:29,eric li,2,computer architecture helper,0
+LKLR,green,11/11/19 19:29,yu zheng ( ),1,data analysis,0
+C2MH,red,11/11/19 19:29,george e. dahl,1,",Machine learning,Neural network",3
+5MGY,yellow,11/11/19 19:29,martin herbordt,1,computer architecture,0
+9HVH,red,11/11/19 19:29,george e. dahl,1,"Artificial intelligence,Machine learning,Deep learning,Pattern recognition",4
+9P3N,green,11/11/19 19:29,aaron sloman,3,artificial intelligence,0
+N7P0,red,11/11/19 19:29,oriol vinyals,2,"Virtual reality,Artificial intelligence,Machine learning,Deep learning",4
+2H6O,red,11/11/19 19:29,song han,6,"Spoken language,Language identification,Neural network,Deep learning",4
+ZCNM,yellow,11/11/19 19:29,eduard hovy,2,linguistics,0
+HSWX,blue,11/11/19 19:29,ruby b. lee,1,"Network monitoring,Computer security,Hardware security",3
+5MGY,yellow,11/11/19 19:29,eric li,2,computer architecture,0
+2H6O,red,11/11/19 19:29,andreas moshovos,4,"Spoken language,Language identification,Neural network,Deep learning",4
+NP3J,green,11/11/19 19:29,dit-yan yeung,4,machine learning pittsburgh,0
+NP3J,green,11/11/19 19:29,qiang yang,5,machine learning pittsburgh,0
+M3VR,blue,11/11/19 19:29,susan j eggers,8,Computer architecture,1
+JNMM,red,11/11/19 19:29,george e. dahl,11,"Evidence based medicine,Mental disorder,Artificial intelligence",3
+LHQ5,blue,11/11/19 19:29,salvador garc a,1,"Computer architecture,Big data,Machine learning",3
+HSWX,blue,11/11/19 19:30,todd austin,2,"Network monitoring,Computer security,Hardware security",3
+TDFS,blue,11/11/19 19:30,salvatore pontarelli,1,Network monitoring,1
+ZUMP,blue,11/11/19 19:30,scott rixner,2,"Computer architecture,Embedded system",2
+CVVU,yellow,11/11/19 19:30,milos prvulovic,3,computer architecture,0
+N7P0,red,11/11/19 19:30,peter norvig,3,"Virtual reality,Artificial intelligence,Machine learning,Deep learning",4
+DU58,green,11/11/19 19:30,alcherio martinoli,2,artificial intelligence,0
+N7P0,red,11/11/19 19:30,dit-yan yeung,4,"Virtual reality,Artificial intelligence,Machine learning,Deep learning",4
+C5ZL,blue,11/11/19 19:30,john hennessy,1,Computer architecture,1
+HSWX,blue,11/11/19 19:30,jakub szefer,3,"Network monitoring,Computer security,Hardware security",3
+TJLN,green,11/11/19 19:30,timothy baldwin,9,artificial Intelligence,0
+IKBJ,yellow,11/11/19 19:30,pat langley,3,architecture,0
+N7P0,red,11/11/19 19:30,klaus-robert m ller,5,"Virtual reality,Artificial intelligence,Machine learning,Deep learning",4
+LHQ5,blue,11/11/19 19:30,nagarajan ranganathan,2,"Computer architecture,Big data,Machine learning",3
+2H6O,red,11/11/19 19:30,eugenio culurciello,3,"Spoken language,Language identification,Neural network,Deep learning",4
+N7P0,red,11/11/19 19:30,kenji suzuki,6,"Virtual reality,Artificial intelligence,Machine learning,Deep learning",4
+C2MH,red,11/11/19 19:30,klaus-robert m ller,2,",Machine learning,Neural network,Artificial intelligence",4
+ZUMP,blue,11/11/19 19:30,erik brunvand,4,"Computer architecture,Embedded system",2
+D49Q,red,11/11/19 19:30,reid g. smith,1,"Human–computer interaction,Artificial intelligence",2
+N7P0,red,11/11/19 19:30,yoshua bengio,8,"Virtual reality,Artificial intelligence,Machine learning,Deep learning",4
+N7P0,red,11/11/19 19:30,leon bottou,7,"Virtual reality,Artificial intelligence,Machine learning,Deep learning",4
+9HVH,red,11/11/19 19:30,dit-yan yeung,2,"Artificial intelligence,Machine learning,Deep learning,Pattern recognition",4
+QI92,green,11/11/19 19:30,jim hendler,2,web programming,0
+NOSO,yellow,11/11/19 19:30,esam el-araby,9,computer architecture helper,0
+C2MH,red,11/11/19 19:30,leon bottou,3,",Machine learning,Neural network,Artificial intelligence",4
+ES3R,yellow,11/11/19 19:30,marisa lopez-vallejo,4,computer architecture,0
+ZUMP,blue,11/11/19 19:30,rodolfo azevedo,3,"Computer architecture,Embedded system",2
+N7P0,red,11/11/19 19:30,dzmitry bahdanau,12,"Virtual reality,Artificial intelligence,Machine learning,Deep learning",4
+C2MH,red,11/11/19 19:30,christian szegedy,4,",Machine learning,Neural network,Artificial intelligence",4
+N7P0,red,11/11/19 19:30,honglak lee,11,"Virtual reality,Artificial intelligence,Machine learning,Deep learning",4
+FDGO,red,11/11/19 19:30,peter norvig,2,Artificial intelligence,1
+DU58,green,11/11/19 19:30,shlomo zilberstein,13,artificial intelligence,0
+45UW,blue,11/11/19 19:30,michael l. scott,2,"Computer architecture,Parallel computing,Operating system",3
+N7P0,red,11/11/19 19:30,oriol vinyals,2,"Virtual reality,Artificial intelligence,Machine learning,Deep learning",4
+5ITM,green,11/11/19 19:30,alcherio martinoli,2,artificial intelligence,0
+OAEG,blue,11/11/19 19:30,karthikeyan sankaralingam,2,"Computer architecture,Data warehouse,Data management",3
+SK9V,green,11/11/19 19:30,erik altman,6,artificial intelligence and robots,0
+QI92,green,11/11/19 19:30,bernardo cuenca grau,5,web programming,0
+ZUMP,blue,11/11/19 19:30,rodolfo azevedo,3,"Computer architecture,Embedded system",2
+ES3R,yellow,11/11/19 19:30,omer khan,20,computer architecture,0
+JNMM,red,11/11/19 19:30,bruce buchanan,4,"Mental disorder,Artificial intelligence",2
+01UI,green,11/11/19 19:30,james c spohrer,5,Face recognition,0
+D49Q,red,11/11/19 19:30,lotfi a. zadeh,6,"Human–computer interaction,Artificial intelligence",2
+5MGY,yellow,11/11/19 19:30,milos prvulovic,3,computer architecture,0
+9P3N,green,11/11/19 19:30,alcherio martinoli,2,artificial intelligence,0
+IKBJ,yellow,11/11/19 19:30,paul rosenbloom,1,architecture,0
+NP3J,green,11/11/19 19:31,klaus-robert m ller,3,pittsburgh machine learning,0
+01UI,green,11/11/19 19:31,peter f. brown,6,Face recognition,0
+ES3R,yellow,11/11/19 19:31,jakub szefer,13,computer architecture,0
+LHQ5,blue,11/11/19 19:31,peter flach,3,"Computer architecture,Big data,Machine learning,Data analysis",4
+QDRT,green,11/11/19 19:31,shlomo zilberstein,13,artificial intellegence,0
+8IVJ,yellow,11/11/19 19:31,bernardo cuenca grau,6,big data,0
+5ITM,green,11/11/19 19:31,reid g. smith,14,artificial intelligence,0
+ZUMP,blue,11/11/19 19:31,john hennessy,1,Computer architecture,1
+C5ZL,blue,11/11/19 19:31,karthikeyan sankaralingam,2,"Computer architecture,Programming language",2
+OAEG,blue,11/11/19 19:31,venkatram vishwanath,3,"Computer architecture,Data warehouse,Data management,Data science",4
+5MGY,yellow,11/11/19 19:31,milos prvulovic,3,computer architecture,0
+TYNN,yellow,11/11/19 19:31,dmitry ponomarev,1,computer architecture cyber security penetration testing,0
+9P3N,green,11/11/19 19:31,john duchi,8,artificial intelligence,0
+2H6O,red,11/11/19 19:31,leon bottou,4,"Spoken language,Language identification,Neural network,Deep learning,Machine learning",5
+NOSO,yellow,11/11/19 19:31,kamakoti veezhinathan,6,computer architecture helper,0
+WOTF,green,11/11/19 19:31,jens lehmann,4,data analytics and artificial intelligence,0
+OAEG,blue,11/11/19 19:31,karthikeyan sankaralingam,2,"Computer architecture,Data warehouse,Data management,Data science",4
+NOSO,yellow,11/11/19 19:31,esam el-araby,9,computer architecture helper,0
+WOTF,green,11/11/19 19:31,andrew putnam,11,data analytics and artificial intelligence,0
+NOSO,yellow,11/11/19 19:31,jakub szefer,13,computer architecture helper,0
+LHQ5,blue,11/11/19 19:31,salvador garc a,1,"Computer architecture,Big data,Machine learning,Data analysis",4
+8IVJ,yellow,11/11/19 19:31,david meisner,2,data science,0
+HSWX,blue,11/11/19 19:31,mohit tiwari,4,"Network monitoring,Computer security,Hardware security",3
+ZCNM,yellow,11/11/19 19:31,dit-yan yeung,4,machine learning,0
+TDFS,blue,11/11/19 19:31,nagarajan kandasamy,1,"Network monitoring,Wireless network,Computer security",3
+ZCNM,yellow,11/11/19 19:31,klaus-robert m ller,3,machine learning,0
+OH12,red,11/11/19 19:31,george e. dahl,1,"Artificial intelligence,Machine learning,Deep learning,Neural network",4
+ZCNM,yellow,11/11/19 19:31,quoc v. le,2,machine learning,0
+NP3J,green,11/11/19 19:31,martin herbordt,1,pittsburgh computer model,0
+QDRT,green,11/11/19 19:31,ashutosh saxena,11,artificial intellegence,0
+ES3R,yellow,11/11/19 19:31,esam el-araby,9,computer architecture,0
+CVVU,yellow,11/11/19 19:31,ian horrocks,3,computer science,0
+NP3J,green,11/11/19 19:31,milos prvulovic,2,pittsburgh computer model,0
+N7P0,red,11/11/19 19:31,klaus-robert m ller,5,"Artificial intelligence,Machine learning,Deep learning,Game design",4
+ZCNM,yellow,11/11/19 19:32,gennady pekhimenko,15,machine learning,0
+8IVJ,yellow,11/11/19 19:32,ian horrocks,7,data science,0
+FDGO,red,11/11/19 19:32,nick bostrom,6,Artificial intelligence,1
+N7P0,red,11/11/19 19:32,sargur (hari) srihari,14,"Artificial intelligence,Machine learning,Deep learning,Game design",4
+N7P0,red,11/11/19 19:32,sepp hochreiter,13,"Artificial intelligence,Machine learning,Deep learning,Game design",4
+WOTF,green,11/11/19 19:32,david meisner,12,data analytics and artificial intelligence,0
+5MGY,yellow,11/11/19 19:32,jose jaime ruz ortiz,12,computer architecture,0
+ES3R,yellow,11/11/19 19:32,milos prvulovic,3,computer architecture,0
+N7P0,red,11/11/19 19:32,razvan pascanu,9,"Artificial intelligence,Machine learning,Deep learning,Game design",4
+5MGY,yellow,11/11/19 19:32,michael papamichael,19,computer architecture,0
+ZUMP,blue,11/11/19 19:32,adrian cristal,1,"Computer architecture,Machine learning",2
+ES3R,yellow,11/11/19 19:32,eric li,2,computer architecture,0
+WOTF,green,11/11/19 19:32,andrew putnam,11,data analytics and artificial intelligence,0
+OAEG,blue,11/11/19 19:32,vicen torra,4,"Computer architecture,Data management,Data science",3
+N7P0,red,11/11/19 19:32,yoshua bengio,8,"Artificial intelligence,Machine learning,Deep learning,Game design",4
+OAEG,blue,11/11/19 19:32,david meisner,9,"Computer architecture,Data management,Data science",3
+45UW,blue,11/11/19 19:32,peter norvig,1,"Computer architecture,Parallel computing,Operating system,Machine learning,Artificial intelligence",5
+ES3R,yellow,11/11/19 19:32,marisa lopez-vallejo,4,computer architecture,0
+N7P0,red,11/11/19 19:32,kenji suzuki,6,"Artificial intelligence,Machine learning,Deep learning,Game design",4
+C5ZL,blue,11/11/19 19:32,john hennessy,1,Computer architecture,1
+FGGG,blue,11/11/19 19:32,juan rubio,5,Information science,1
+N7P0,red,11/11/19 19:32,zhi-hua zhou,2,"Artificial intelligence,Machine learning,Game design",3
+TYNN,yellow,11/11/19 19:32,martin herbordt,2,computer architecture cyber security penetration testing,0
+9P3N,green,11/11/19 19:32,timothy baldwin,9,artificial intelligence,0
+C5ZL,blue,11/11/19 19:32,karthikeyan sankaralingam,2,Computer architecture,1
+ES3R,yellow,11/11/19 19:32,omer khan,20,computer architecture,0
+N7P0,red,11/11/19 19:32,bruce r maxim,1,Game design,1
+OAEG,blue,11/11/19 19:32,diego calvanese,11,"Computer architecture,Data management,Data science",3
+IKBJ,yellow,11/11/19 19:32,grady booch,5,architecture,0
+9HVH,red,11/11/19 19:32,oriol vinyals,5,"Artificial intelligence,Machine learning,Deep learning,Pattern recognition",4
+ROGI,blue,11/11/19 19:32,gianni a. di caro,1,artifical intelligence,0
+CVVU,yellow,11/11/19 19:32,paul rosenbloom,1,Architecture,0
+WOTF,green,11/11/19 19:32,alcherio martinoli,2,data analytics and artificial intelligence,0
+5ITM,green,11/11/19 19:33,sophia ananiadou,16,artificial intelligence,0
+OAEG,blue,11/11/19 19:33,nam sung kim,14,"Computer architecture,Data management,Data science",3
+LKLR,green,11/11/19 19:33,visvanathan ramesh,12,environmental engineering,0
+C5ZL,blue,11/11/19 19:33,karthikeyan sankaralingam,2,Computer architecture,1
+DJEG,yellow,11/11/19 19:33,mikhail (misha) belkin,7,"Artificial intelligence,Machine learning",2
+LHQ5,blue,11/11/19 19:33,vicen torra,2,"Computer architecture,Big data,Machine learning,Data analysis,Artificial intelligence",5
+ZUMP,blue,11/11/19 19:33,john hennessy,7,"Computer architecture,Machine learning",2
+OAEG,blue,11/11/19 19:33,venkatram vishwanath,2,"Computer architecture,Data management,Data science",3
+DJEG,yellow,11/11/19 19:33,pedro domingos,4,"Artificial intelligence,Machine learning",2
+TYNN,yellow,11/11/19 19:33,eric li,3,computer architecture cyber security penetration testing,0
+N7P0,red,11/11/19 19:33,salvador garc a,2,"Game design,Big data,Artificial intelligence",3
+DU58,green,11/11/19 19:33,erik altman,6,artificial intelligence,0
+TJLN,green,11/11/19 19:33,pawan sinha,10,artificial Intelligence,0
+QDRT,green,11/11/19 19:33,david touretzky,19,artificial intellegence,0
+ZUMP,blue,11/11/19 19:33,oriol vinyals,1,"Computer architecture,Machine learning,Deep learning",3
+N7P0,red,11/11/19 19:33,vasant g honavar,3,"Game design,Big data,Artificial intelligence",3
+8IVJ,yellow,11/11/19 19:33,daphne koller,18,biology,0
+C2MH,red,11/11/19 19:33,martin herbordt,1,computer architecture,0
+5MGY,yellow,11/11/19 19:33,jakub szefer,13,computer architecture,0
+FGGG,blue,11/11/19 19:33,vijay janapa reddi,7,"Information science,Cloud computing,Computer architecture,Power management",4
+N7P0,red,11/11/19 19:33,francisco herrera,4,"Game design,Big data,Artificial intelligence",3
+8IVJ,yellow,11/11/19 19:33,daphne koller,18,biology,0
+N7P0,red,11/11/19 19:33,nuria oliver phd,6,"Game design,Big data,Artificial intelligence",3
+ROGI,blue,11/11/19 19:33,alcherio martinoli,2,artifical intelligence,0
+OH12,red,11/11/19 19:33,george e. dahl,1,"Artificial intelligence,Machine learning,Deep learning,Neural network",4
+N7P0,red,11/11/19 19:33,salvador garc a,2,"Game design,Big data,Artificial intelligence",3
+M3VR,blue,11/11/19 19:33,hugo larochelle,1,machine learning and artificial intelligence,0
+5MGY,yellow,11/11/19 19:33,marisa lopez-vallejo,4,computer architecture,0
+SK9V,green,11/11/19 19:33,imran s haque,7,artificial intelligence and robots,0
+TYNN,yellow,11/11/19 19:33,milos prvulovic,4,computer architecture cyber security penetration testing,0
+OJWB,red,11/11/19 19:33,martin herbordt,1,computer archetecture,0
+OJWB,red,11/11/19 19:33,milos prvulovic,2,computer archetecture,0
+LKLR,green,11/11/19 19:33,fei guo,2,indoor air quality,0
+QDRT,green,11/11/19 19:33,frank wolter,16,artificial intellegence,0
+OJWB,red,11/11/19 19:33,eric li,3,computer archetecture,0
+45UW,blue,11/11/19 19:33,george e. dahl,1,"Computer architecture,Parallel computing,Operating system,Machine learning,Artificial intelligence,Neural network",6
+C2MH,red,11/11/19 19:33,eric li,2,computer architecture,0
+5MGY,yellow,11/11/19 19:33,kamakoti veezhinathan,6,computer architecture,0
+TDFS,blue,11/11/19 19:33,mohit tiwari,5,"Network monitoring,Wireless network,Computer security",3
+OAEG,blue,11/11/19 19:33,vicen torra,4,"Computer architecture,Data management,Data science",3
+N7P0,red,11/11/19 19:33,vasant g honavar,3,"Game design,Big data,Artificial intelligence",3
+HSWX,blue,11/11/19 19:33,salvatore pontarelli,1,"Network monitoring,Packet processing",2
+LHQ5,blue,11/11/19 19:33,klaus-robert m ller,3,"Computer architecture,Big data,Machine learning,Data analysis,Artificial intelligence",5
+M3VR,blue,11/11/19 19:34,dit-yan yeung,4,machine learning and artificial intelligence,0
+JNMM,red,11/11/19 19:34,paul rosenbloom,1,architecture,0
+OJWB,red,11/11/19 19:34,charles weems,4,computer archetecture,0
+SK9V,green,11/11/19 19:34,john duchi,8,artificial intelligence and robots,0
+ROGI,blue,11/11/19 19:34,aaron sloman,3,artifical intelligence,0
+OAEG,blue,11/11/19 19:34,karthikeyan sankaralingam,2,"Computer architecture,Data management,Data science",3
+CVVU,yellow,11/11/19 19:34,pat langley,3,Architecture,0
+FGGG,blue,11/11/19 19:34,juan rubio,4,"Information science,Cloud computing,Computer architecture,Power management",4
+M3VR,blue,11/11/19 19:34,gianni a. di caro,9,machine learning and artificial intelligence,0
+DU58,green,11/11/19 19:34,timothy baldwin,9,artificial intelligence,0
+QDRT,green,11/11/19 19:34,prabhas chongstitvatana,2,artificial intellegence,0
+C2MH,red,11/11/19 19:34,milos prvulovic,3,computer architecture,0
+2H6O,red,11/11/19 19:34,stephen boyd,1,optimization,0
+DU58,green,11/11/19 19:34,alcherio martinoli,2,artificial intelligence,0
+8IVJ,yellow,11/11/19 19:34,daniel c. dennett,2,psychology,0
+OJWB,red,11/11/19 19:34,sergey karayev,5,computer archetecture,0
+LHQ5,blue,11/11/19 19:34,eyke h llermeier,4,"Computer architecture,Big data,Machine learning,Data analysis,Artificial intelligence",5
+LKLR,green,11/11/19 19:34,kevin skadron,1,cloud computing,0
+2H6O,red,11/11/19 19:34,andreas krause,2,optimization,0
+NOSO,yellow,11/11/19 19:34,zhi-hua zhou,2,"Artificial intelligence,Machine learning",2
+OAEG,blue,11/11/19 19:34,david a. wood,3,Computer architecture,1
+FGGG,blue,11/11/19 19:34,juan rubio,4,"Information science,Cloud computing,Computer architecture,Power management",4
+LKLR,green,11/11/19 19:34,guy lemieux,2,cloud computing,0
+CVVU,yellow,11/11/19 19:34,dheeraj reddy,18,Computer Architecture,0
+C5ZL,blue,11/11/19 19:34,harold w. trey cain,2,"Computer architecture,Instruction scheduling,Transactional memory",3
+QDRT,green,11/11/19 19:34,nuno lau,5,artificial intellegence,0
+C2MH,red,11/11/19 19:34,kamakoti veezhinathan,6,computer architecture,0
+ROGI,blue,11/11/19 19:34,shlomo zilberstein,13,artifical intelligence,0
+2H6O,red,11/11/19 19:35,masaaki kondo,1,language,0
+C2MH,red,11/11/19 19:35,marisa lopez-vallejo,4,computer architecture,0
+NOSO,yellow,11/11/19 19:35,ioannis vlahavas,3,"Artificial intelligence,Machine learning,Data mining",3
+TYNN,yellow,11/11/19 19:35,todd austin,5,computer architecture cyber security penetration testing,0
+ROGI,blue,11/11/19 19:35,frank wolter,15,artifical intelligence,0
+C5ZL,blue,11/11/19 19:35,john hennessy,3,"Computer architecture,Instruction scheduling,Transactional memory",3
+45UW,blue,11/11/19 19:35,klaus-robert m ller,2,"Computer architecture,Parallel computing,Operating system,Machine learning,Artificial intelligence,Neural network",6
+C2MH,red,11/11/19 19:35,marisa lopez-vallejo,4,computer architecture,0
+M3VR,blue,11/11/19 19:35,klaus-robert m ller,12,machine learning and artificial intelligence,0
+JNMM,red,11/11/19 19:35,stan franklin,1,architecture google,0
+ROGI,blue,11/11/19 19:35,prabhas chongstitvatana,4,artifical intelligence,0
+M3VR,blue,11/11/19 19:35,francisco herrera,13,machine learning and artificial intelligence,0
+45UW,blue,11/11/19 19:35,george e. dahl,1,"Computer architecture,Parallel computing,Operating system,Machine learning,Artificial intelligence,Neural network",6
+C5ZL,blue,11/11/19 19:35,harold w. trey cain,3,"Computer architecture,Instruction scheduling,Transactional memory,Programming language",4
+JNMM,red,11/11/19 19:35,christian lebiere,3,architecture google,0
+IKBJ,yellow,11/11/19 19:35,michael papamichael,17,architecture,0
+2H6O,red,11/11/19 19:35,tim finin,1,model,0
+LKLR,green,11/11/19 19:35,pedro trancoso,3,cloud computing,0
+2H6O,red,11/11/19 19:35,tomas mikolov,2,model,0
+ROGI,blue,11/11/19 19:35,nuno lau,5,artifical intelligence,0
+C5ZL,blue,11/11/19 19:35,harold w. trey cain,3,"Computer architecture,Instruction scheduling,Transactional memory,Programming language",4
+TDFS,blue,11/11/19 19:35,todd austin,2,"Network monitoring,Wireless network,Computer security",3
+2H6O,red,11/11/19 19:35,jaime carbonell,3,model,0
+OAEG,blue,11/11/19 19:35,rodolfo azevedo,11,Computer architecture,1
+TDFS,blue,11/11/19 19:35,todd austin,2,"Network monitoring,Wireless network,Computer security",3
+OAEG,blue,11/11/19 19:35,mingyu chen ( ),9,Computer architecture,1
+OJWB,red,11/11/19 19:35,eric li,3,computer archetecture,0
+ROGI,blue,11/11/19 19:35,john duchi,8,artifical intelligence,0
+QDRT,green,11/11/19 19:35,reid g. smith,14,artificial intellegence,0
+OAEG,blue,11/11/19 19:35,vladimir kiriansky,7,Computer architecture,1
+TYNN,yellow,11/11/19 19:35,filippo mantovani,6,computer architecture cyber security penetration testing,0
+OAEG,blue,11/11/19 19:35,christopher batten,5,Computer architecture,1
+FGGG,blue,11/11/19 19:35,ruben s. montero,1,"Information science,Cloud computing,Computer architecture,Power management",4
+OH12,red,11/11/19 19:35,klaus-robert m ller,2,"Artificial intelligence,Machine learning,Deep learning,Neural network,Pattern recognition",5
+JNMM,red,11/11/19 19:35,christian lebiere,3,architecture google,0
+OAEG,blue,11/11/19 19:36,susan j eggers,8,Computer architecture,1
+2H6O,red,11/11/19 19:36,qiang yang,1,deep learning,0
+NOSO,yellow,11/11/19 19:36,salvador garc a,5,"Artificial intelligence,Machine learning,Data mining",3
+8IVJ,yellow,11/11/19 19:36,gerhard widmer,1,music,0
+2H6O,red,11/11/19 19:36,dit-yan yeung,2,deep learning,0
+NOSO,yellow,11/11/19 19:36,pedro domingos,6,"Artificial intelligence,Machine learning,Data mining",3
+2H6O,red,11/11/19 19:36,hugo larochelle,3,deep learning,0
+JNMM,red,11/11/19 19:36,michael papamichael,18,architecture google,0
+C5ZL,blue,11/11/19 19:36,harold w. trey cain,3,"Computer architecture,Instruction scheduling,Transactional memory,Programming language,Machine learning",5
+2H6O,red,11/11/19 19:36,klaus-robert m ller,4,deep learning,0
+JNMM,red,11/11/19 19:36,michael papamichael,18,architecture google,0
+QDRT,green,11/11/19 19:36,sophia ananiadou,15,artificial intellegence,0
+2H6O,red,11/11/19 19:36,dit-yan yeung,2,deep learning,0
+TYNN,yellow,11/11/19 19:36,robert nm watson,13,computer architecture cyber security penetration testing,0
+C2MH,red,11/11/19 19:36,shuangchen li,14,Computer Architecture,0
+CVVU,yellow,11/11/19 19:36,eric li,2,Computer Science,0
+ZUMP,blue,11/11/19 19:36,gianni a. di caro,1,Artificial Intelligence,0
+D49Q,red,11/11/19 19:36,martin herbordt,1,computer architech,0
+C5ZL,blue,11/11/19 19:36,michael l. scott,4,"Computer architecture,Instruction scheduling,Transactional memory,Programming language,Machine learning",5
+D49Q,red,11/11/19 19:36,martin herbordt,1,computer architech,0
+2H6O,red,11/11/19 19:36,quoc v. le,2,machine learning,0
+5MGY,yellow,11/11/19 19:36,reid g. smith,1,Artificial intelligence,1
+WOTF,green,11/11/19 19:36,tushar chandra,3,"Computer architecture,Machine learning,Artificial intelligence,Computer vision",4
+M3VR,blue,11/11/19 19:36,dit-yan yeung,4,machine learning and artificial intelligence,0
+D49Q,red,11/11/19 19:36,charles weems,4,computer architech,0
+FGGG,blue,11/11/19 19:36,christos kozyrakis,19,"Information science,Cloud computing,Computer architecture,Power management",4
+JNMM,red,11/11/19 19:36,jonathan krause,20,architecture google,0
+TDFS,blue,11/11/19 19:36,jakub szefer,7,"Network monitoring,Wireless network,Computer security",3
+OAEG,blue,11/11/19 19:37,karthikeyan sankaralingam,2,Computer architecture,1
+9HVH,red,11/11/19 19:37,martin herbordt,1,computer architecture,0
+NP3J,green,11/11/19 19:37,peter norvig,1,"Computer architecture,Machine learning,Artificial intelligence",3
+9P3N,green,11/11/19 19:37,peter norvig,1,"Computer architecture,Machine learning,Artificial intelligence",3
+ZUMP,blue,11/11/19 19:37,alcherio martinoli,2,Artificial Intelligence,0
+QDRT,green,11/11/19 19:37,pascal poupart,18,artificial intellegence,0
+2H6O,red,11/11/19 19:37,dit-yan yeung,4,machine learning,0
+M3VR,blue,11/11/19 19:37,alcherio martinoli,8,machine learning and artificial intelligence,0
+LKLR,green,11/11/19 19:37,igor l. markov,1,web design,0
+JNMM,red,11/11/19 19:37,john illingworth,10,architecture google,0
+NP3J,green,11/11/19 19:37,zhi-hua zhou,2,"Computer architecture,Machine learning,Artificial intelligence",3
+9P3N,green,11/11/19 19:37,john hennessy,1,"Computer architecture,Machine learning,Artificial intelligence",3
+SK9V,green,11/11/19 19:37,zoubin ghahramani,1,ai statistics,0
+C5ZL,blue,11/11/19 19:37,r. iris bahar,9,"Computer architecture,Instruction scheduling,Transactional memory,Programming language,Machine learning",5
+TYNN,yellow,11/11/19 19:37,omer khan,16,computer architecture cyber security penetration testing,0
+NP3J,green,11/11/19 19:37,salvador garc a,2,"Computer architecture,Machine learning,Artificial intelligence,Data mining",4
+OH12,red,11/11/19 19:37,peter norvig,3,"Artificial intelligence,Machine learning,Deep learning,Pattern recognition",4
+FDGO,red,11/11/19 19:37,martin herbordt,1,computer architecture and related topics,0
+2H6O,red,11/11/19 19:37,klaus-robert m ller,3,machine learning,0
+5ITM,green,11/11/19 19:37,vicen torra,1,"Data model,Computer architecture,Data analysis",3
+NOSO,yellow,11/11/19 19:37,zhi-hua zhou,3,"Artificial intelligence,Machine learning,Data mining",3
+NP3J,green,11/11/19 19:37,zhi-hua zhou,3,"Computer architecture,Machine learning,Artificial intelligence,Data mining",4
+NOSO,yellow,11/11/19 19:37,salvador garc a,2,"Artificial intelligence,Machine learning,Data mining",3
+IKBJ,yellow,11/11/19 19:37,ali ziya alkar,11,architecture,0
+2H6O,red,11/11/19 19:37,gennady pekhimenko,15,machine learning,0
+2H6O,red,11/11/19 19:37,qiang yang,5,machine learning,0
+TDFS,blue,11/11/19 19:37,benjamin c. lee,6,"Network monitoring,Wireless network,Computer security",3
+5MGY,yellow,11/11/19 19:37,aaron sloman,3,"Artificial intelligence,Information management,Information discovery,Knowledge management",4
+TYNN,yellow,11/11/19 19:38,marisa lopez-vallejo,17,computer architecture cyber security penetration testing,0
+ES3R,yellow,11/11/19 19:38,peter norvig,1,"Artificial intelligence,Machine learning",2
+TDFS,blue,11/11/19 19:38,ruby b. lee,4,"Network monitoring,Wireless network,Computer security",3
+NP3J,green,11/11/19 19:38,ioannis vlahavas,1,"Computer architecture,Machine learning,Artificial intelligence,Data mining,Deep learning",5
+5ITM,green,11/11/19 19:38,boris motik,4,"Data model,Computer architecture,Data analysis",3
+FGGG,blue,11/11/19 19:38,karthikeyan sankaralingam,10,"Information science,Cloud computing,Computer architecture,Power management",4
+TDFS,blue,11/11/19 19:38,ruby b. lee,4,"Network monitoring,Wireless network,Computer security",3
+9P3N,green,11/11/19 19:38,peter norvig,2,"Computer architecture,Machine learning,Artificial intelligence,Computer vision",4
+NOSO,yellow,11/11/19 19:38,pedro domingos,5,"Artificial intelligence,Machine learning,Data mining",3
+TYNN,yellow,11/11/19 19:38,tim finin,12,computer architecture cyber security penetration testing,0
+N7P0,red,11/11/19 19:38,david meisner,1,computer architecture and data science,0
+NOSO,yellow,11/11/19 19:38,luc de raedt,6,"Artificial intelligence,Machine learning,Data mining",3
+ZUMP,blue,11/11/19 19:38,pawan sinha,10,artificial intelligence,0
+LKLR,green,11/11/19 19:38,igor l. markov,1,web design,0
+ES3R,yellow,11/11/19 19:38,zhi-hua zhou,2,"Artificial intelligence,Machine learning",2
+FDGO,red,11/11/19 19:38,eric li,2,computer architecture and related topics,0
+SK9V,green,11/11/19 19:38,timothy baldwin,9,artificial intelligence,0
+N7P0,red,11/11/19 19:38,jens lehmann,4,computer architecture and data science,0
+2H6O,red,11/11/19 19:39,chi-keung luk,17,machine learning,0
+LKLR,green,11/11/19 19:39,eric li,2,computer science,0
+5ITM,green,11/11/19 19:39,mark s fox,8,"Data model,Computer architecture,Data analysis,Semantic Web,Artificial intelligence",5
+ZUMP,blue,11/11/19 19:39,andreas krall,1,programming,0
+OH12,red,11/11/19 19:39,oriol vinyals,4,"Artificial intelligence,Machine learning,Deep learning,Pattern recognition",4
+ES3R,yellow,11/11/19 19:39,mehdi mirza,13,"Artificial intelligence,Machine learning",2
+9P3N,green,11/11/19 19:39,pedro domingos,6,"Computer architecture,Machine learning,Artificial intelligence,Computer vision",4
+LHQ5,blue,11/11/19 19:39,gianni a. di caro,1,Artificial Intelligence,0
+TYNN,yellow,11/11/19 19:39,vassos soteriou,15,computer architecture cyber security penetration testing,0
+ES3R,yellow,11/11/19 19:39,mehdi mirza,13,"Artificial intelligence,Machine learning",2
+N7P0,red,11/11/19 19:39,bernardo cuenca grau,11,computer architecture and data science,0
+ES3R,yellow,11/11/19 19:39,tushar chandra,3,"Artificial intelligence,Machine learning",2
+N7P0,red,11/11/19 19:39,yu zheng ( ),9,computer architecture and data science,0
+ES3R,yellow,11/11/19 19:39,pedro domingos,4,"Artificial intelligence,Machine learning",2
+N7P0,red,11/11/19 19:39,andrew putnam,5,computer architecture and data science,0
+9P3N,green,11/11/19 19:39,dit-yan yeung,3,"Computer architecture,Machine learning,Artificial intelligence,Computer vision",4
+5ITM,green,11/11/19 19:39,yolanda gil,15,"Data model,Computer architecture,Data analysis,Semantic Web,Artificial intelligence,Smart city",6
+FDGO,red,11/11/19 19:39,marisa lopez-vallejo,4,computer architecture and related topics,0
+DU58,green,11/11/19 19:39,zhi-hua zhou,1,"Computer architecture,Machine learning,Artificial intelligence",3
+FDGO,red,11/11/19 19:39,marisa lopez-vallejo,4,computer architecture and related topics,0
+LHQ5,blue,11/11/19 19:40,alcherio martinoli,2,Artificial Intelligence,0
+45UW,blue,11/11/19 19:40,hugo larochelle,1,artificial intelligence and machine learning,0
+TYNN,yellow,11/11/19 19:40,martin herbordt,2,computer architecture cyber security penetration testing,0
+ES3R,yellow,11/11/19 19:40,eyke h llermeier,8,"Artificial intelligence,Machine learning",2
+9P3N,green,11/11/19 19:40,zhi-hua zhou,4,"Computer architecture,Machine learning,Artificial intelligence,Computer vision",4
+N7P0,red,11/11/19 19:40,jakub szefer,14,computer architecture and data science,0
+FDGO,red,11/11/19 19:40,esam el-araby,9,computer architecture and related topics,0
+HSWX,blue,11/11/19 19:40,gianni a. di caro,1,artificial intelligence,0
+DU58,green,11/11/19 19:40,eyke h llermeier,6,"Computer architecture,Machine learning,Artificial intelligence,Data mining",4
+ES3R,yellow,11/11/19 19:40,dit-yan yeung,14,"Artificial intelligence,Machine learning",2
+ES3R,yellow,11/11/19 19:40,leon bottou,15,"Artificial intelligence,Machine learning",2
+45UW,blue,11/11/19 19:40,dit-yan yeung,4,artificial intelligence and machine learning,0
+LHQ5,blue,11/11/19 19:40,hugo larochelle,1,Artificial Intelligence and Machine Learning,0
+CVVU,yellow,11/11/19 19:40,lynne e. parker,8,Artificial intelligence,1
+45UW,blue,11/11/19 19:40,aaron sloman,6,artificial intelligence and machine learning,0
+CVVU,yellow,11/11/19 19:41,george e. dahl,1,"Artificial intelligence,Neural network",2
+OH12,red,11/11/19 19:41,dit-yan yeung,2,"Artificial intelligence,Machine learning,Deep learning,Pattern recognition",4
+N7P0,red,11/11/19 19:41,martin herbordt,1,computer architecture,0
+LHQ5,blue,11/11/19 19:41,amritpal singh,2,Artificial Intelligence and Machine Learning,0
+HSWX,blue,11/11/19 19:41,alcherio martinoli,2,artificial intelligence and networks,0
+N7P0,red,11/11/19 19:41,milos prvulovic,3,computer architecture,0
+DU58,green,11/11/19 19:41,salvador garc a,3,"Computer architecture,Machine learning,Artificial intelligence,Data mining",4
+OAEG,blue,11/11/19 19:41,gianni a. di caro,1,artificial intelligence,0
+CVVU,yellow,11/11/19 19:42,klaus-robert m ller,2,"Artificial intelligence,Neural network,Machine learning",3
+DU58,green,11/11/19 19:42,ioannis vlahavas,2,"Computer architecture,Machine learning,Artificial intelligence,Data mining",4
+N7P0,red,11/11/19 19:42,kamakoti veezhinathan,6,computer architecture,0
+C5ZL,blue,11/11/19 19:42,gianni a. di caro,4,artificial intelligence and machine learning and plant biology,0
+TDFS,blue,11/11/19 19:42,ali farhadi,1,network security,0
+DU58,green,11/11/19 19:42,ioannis vlahavas,1,"Computer architecture,Machine learning,Artificial intelligence,Data mining",4
+C5ZL,blue,11/11/19 19:42,francisco herrera,2,artificial intelligence and machine learning and plant biology,0
+TDFS,blue,11/11/19 19:42,todd austin,3,network security,0
+C5ZL,blue,11/11/19 19:42,quoc v. le,5,artificial intelligence and machine learning and plant biology,0
+CVVU,yellow,11/11/19 19:42,song han,8,",Neural network",2
+OH12,red,11/11/19 19:42,klaus-robert m ller,6,"Artificial intelligence,Machine learning,Deep learning,Pattern recognition",4
+QDRT,green,11/11/19 19:42,john hennessy,1,"Computer architecture,Embedded system",2
+OAEG,blue,11/11/19 19:42,alcherio martinoli,2,artificial intelligence,0
+OH12,red,11/11/19 19:42,sargur (hari) srihari,5,"Artificial intelligence,Machine learning,Deep learning,Pattern recognition",4
+OAEG,blue,11/11/19 19:42,alcherio martinoli,2,artificial intelligence,0
+C5ZL,blue,11/11/19 19:43,laurent itti,1,artificial intelligence and machine learning and plant biology,0
+C5ZL,blue,11/11/19 19:43,laurent itti,1,artificial intelligence and machine learning and plant biology,0
+TDFS,blue,11/11/19 19:43,li-wen chang,2,network security,0
+OAEG,blue,11/11/19 19:43,bernardo cuenca grau,1,artificial intelligence and data,0
+OH12,red,11/11/19 19:43,kenji suzuki,7,"Artificial intelligence,Machine learning,Deep learning,Pattern recognition",4
+SK9V,green,11/11/19 19:43,john hennessy,1,"Computer architecture,Machine learning,Artificial intelligence",3
+IKBJ,yellow,11/11/19 19:43,reid g. smith,1,Artificial intelligence,1
+CVVU,yellow,11/11/19 19:43,alex graves,1,",Neural network",2
+C5ZL,blue,11/11/19 19:43,gianni a. di caro,4,artificial intelligence and machine learning and plant biology,0
+FGGG,blue,11/11/19 19:43,jaehyuk huh,6,artificial cloud,0
+QDRT,green,11/11/19 19:43,rodolfo azevedo,2,"Computer architecture,Embedded system",2
+FGGG,blue,11/11/19 19:43,hubertus franke,9,artificial cloud,0
+FGGG,blue,11/11/19 19:43,babak falsafi,10,artificial cloud,0
+QDRT,green,11/11/19 19:44,karthikeyan sankaralingam,3,"Computer architecture,Embedded system",2
+CVVU,yellow,11/11/19 19:44,risto miikkulainen,6,",Neural network,Artificial intelligence",3
+OAEG,blue,11/11/19 19:44,alcherio martinoli,2,artificial intelligence and data,0
+TDFS,blue,11/11/19 19:44,ali farhadi,1,network security,0
+QDRT,green,11/11/19 19:44,christophe bobda,4,"Computer architecture,Embedded system",2
+IKBJ,yellow,11/11/19 19:44,peter norvig,2,Artificial intelligence,1
+C5ZL,blue,11/11/19 19:44,quoc v. le,5,artificial intelligence and machine learning and plant biology,0
+OAEG,blue,11/11/19 19:44,yu zheng ( ),3,artificial intelligence and data,0
+CVVU,yellow,11/11/19 19:44,christian szegedy,3,",Neural network,Artificial intelligence",3
+QDRT,green,11/11/19 19:44,david a. wood,5,"Computer architecture,Embedded system",2
+C5ZL,blue,11/11/19 19:44,alcherio martinoli,9,artificial intelligence and machine learning and plant biology,0
+SK9V,green,11/11/19 19:44,adrian cristal,2,"Computer architecture,Machine learning,Artificial intelligence",3
+SK9V,green,11/11/19 19:45,karthikeyan sankaralingam,3,"Computer architecture,Machine learning,Artificial intelligence",3
+C5ZL,blue,11/11/19 19:45,peter f. brown,10,artificial intelligence and machine learning and plant biology,0
+OAEG,blue,11/11/19 19:45,jens lehmann,4,artificial intelligence and data,0
+C5ZL,blue,11/11/19 19:45,hugo larochelle,12,artificial intelligence and machine learning and plant biology,0
+C5ZL,blue,11/11/19 19:45,klaus-robert m ller,14,artificial intelligence and machine learning and plant biology,0
+TYNN,yellow,11/11/19 19:45,george e. dahl,1,"Artificial intelligence,Deep learning,Neural network",3
+SK9V,green,11/11/19 19:45,peter norvig,1,"Computer architecture,Machine learning,Artificial intelligence",3
+IKBJ,yellow,11/11/19 19:45,aaron sloman,3,Artificial intelligence,1
+TDFS,blue,11/11/19 19:45,dmitry ponomarev,3,computer security,0
+C5ZL,blue,11/11/19 19:46,hugo larochelle,12,artificial intelligence and machine learning and plant biology,0
+OAEG,blue,11/11/19 19:46,aaron sloman,6,artificial intelligence and data,0
+TYNN,yellow,11/11/19 19:46,david warde-farley,2,"Artificial intelligence,Deep learning,Neural network,Machine learning,Pattern recognition",5
+IKBJ,yellow,11/11/19 19:46,bruce buchanan,4,Artificial intelligence,1
+SK9V,green,11/11/19 19:46,george e. dahl,8,"Computer architecture,Machine learning,Artificial intelligence",3
+TYNN,yellow,11/11/19 19:46,klaus-robert m ller,3,"Artificial intelligence,Deep learning,Neural network,Machine learning,Pattern recognition",5
+IKBJ,yellow,11/11/19 19:47,lotfi a. zadeh,5,Artificial intelligence,1
+TYNN,yellow,11/11/19 19:47,david warde-farley,3,"Artificial intelligence,Deep learning,Neural network,Machine learning,Pattern recognition,Big data",6
+TYNN,yellow,11/11/19 19:48,leon bottou,4,"Artificial intelligence,Deep learning,Neural network,Machine learning,Pattern recognition,Big data",6
+TYNN,yellow,11/11/19 19:48,kenji suzuki,5,"Artificial intelligence,Deep learning,Neural network,Machine learning,Pattern recognition,Big data",6
+TYNN,yellow,11/11/19 19:48,sepp hochreiter,6,"Artificial intelligence,Deep learning,Neural network,Machine learning,Pattern recognition,Big data",6
+TYNN,yellow,11/11/19 19:49,dit-yan yeung,11,"Artificial intelligence,Deep learning,Neural network,Machine learning,Pattern recognition,Big data",6
+LKLR,green,11/11/19 19:49,ruben s. montero,3,"Data analysis,Cloud computing,Data center,Power management,Artificial intelligence",5
+TYNN,yellow,11/11/19 19:49,scott reed,16,"Artificial intelligence,Deep learning,Neural network,Machine learning,Pattern recognition,Big data",6
+LKLR,green,11/11/19 19:49,luiz andr barroso,4,"Data analysis,Cloud computing,Data center,Power management,Artificial intelligence",5
+TYNN,yellow,11/11/19 19:49,scott reed,16,"Artificial intelligence,Deep learning,Neural network,Machine learning,Pattern recognition,Big data",6
+TYNN,yellow,11/11/19 19:50,oriol vinyals,13,"Artificial intelligence,Deep learning,Neural network,Machine learning,Pattern recognition,Big data",6
+OH12,red,11/11/19 19:50,martin herbordt,1,computer architecture,0
+OH12,red,11/11/19 19:51,eric li,2,computer architecture,0
+OH12,red,11/11/19 19:51,milos prvulovic,3,computer architecture,0
+OH12,red,11/11/19 19:52,kamakoti veezhinathan,6,computer architecture,0
+OH12,red,11/11/19 19:53,eric li,2,computer architecture,0
+OH12,red,11/11/19 19:53,khairulmizam samsudin,5,computer architecture,0
+OH12,red,11/11/19 19:54,esam el-araby,9,computer architecture,0
+OH12,red,11/11/19 19:55,jose jaime ruz ortiz,12,computer architecture,0
+OH12,red,11/11/19 19:55,masaaki kondo,15,computer architecture,0
